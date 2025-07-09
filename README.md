@@ -57,21 +57,7 @@ Follow these steps to set up your local environment.
 
 The project is organized into source code and data directories for clarity and maintainability.
 
-cdo_data_pipeline/
-├── data/ # all downloaded and processed data
-│ ├── raw/ # raw, unmodified data from NOAA
-│ └── processed/ # clean, standardised, analysis-ready data
-├── src/ # python source code
-│ ├── init.py
-│ ├── config.py # configuration for the project
-│ ├── main.py # main script to run the pipelines
-│ └── pipelines/ # logic for each dataset.
-│   ├── init.py
-│   ├── ghcnd_pipeline.py
-│   ├── gsod_pipeline.py
-│   ├── normals_pipeline.py
-├── requirements.txt # python dependencies
-└── README.md 
+<img width="453" alt="Screenshot 2025-07-09 at 12 08 44 PM" src="https://github.com/user-attachments/assets/bc2f3312-e407-4fab-a914-711199a0b9f4" />
 
 
 ## 6. How to Run the Pipeline

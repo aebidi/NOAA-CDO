@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large data directory - NEVER commit large data files to Git
+data/
+
+# IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store

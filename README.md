@@ -70,7 +70,7 @@ The main command follows this pattern:
 
 ```bash
 python -m src.main --dataset <DATASET_NAME> --step <STEP_NAME>
-
+```
 * \<DATASET_NAME> can be one of: ghcnd, gsod, isd, normals.
 * \<STEP_NAME> can be one of: download, process.
 

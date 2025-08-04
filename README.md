@@ -57,8 +57,7 @@ Follow these steps to set up your local environment.
 
 The project is organized into source code and data directories for clarity and maintainability.
 
-<img width="453" alt="Screenshot 2025-07-09 at 12 08 44 PM" src="https://github.com/user-attachments/assets/bc2f3312-e407-4fab-a914-711199a0b9f4" />
-
+![directory tree structure](<Screenshot 2025-07-09 at 12.08.44 PM.png>)
 
 ## 6. How to Run the Pipeline
 
